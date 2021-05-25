@@ -1,0 +1,7 @@
+flask
+requests
+jsonify
+mysql-connector-python
+flask_mysqldb
+flask_mail
+sendgrid
