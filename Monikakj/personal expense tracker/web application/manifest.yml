@@ -1,0 +1,7 @@
+---
+applications:
+- memory: 128M 
+  disk: 256M
+  instances: 1
+  name: monika-personal-tracker
+  random-route: true
